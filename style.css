@@ -19,13 +19,8 @@ header {
     background-color: #287cdd;
 }
 
-header h1 {
-    margin-left: 400px;
-}
-
 header .imagem-botao {
     margin-top: 5px;
-    margin-right: 100px;
 }
 
 header #botao-alterar-modo {
@@ -166,14 +161,6 @@ main {
 .backcolor {
     background-color: #287cdd;
 }
-
-/* footer {
-    background-color: #287cdd;
-    color: white;
-    font-weight: 500;
-    text-align: center;
-    padding: 5px;
-} */
 
 footer {
     background-color: #287cdd; 
